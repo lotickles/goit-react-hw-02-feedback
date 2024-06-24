@@ -1,0 +1,14 @@
+.optionBtns {
+  padding: 5px 10px;
+  background-color: beige;
+  border: 1px solid gray;
+  border-radius: 4px;
+  cursor: pointer;
+  text-transform: capitalize;
+  margin-right: 10px;
+}
+
+.optionBtns:active {
+  background-color: #3282ec;
+  color: white;
+}
